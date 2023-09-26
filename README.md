@@ -22,3 +22,5 @@ Deben crear una página web que contenga tres artículos relacionados con el tem
 ## Evaluación
 
 Acá deben incluir una breve descripción y quienes trabajaron.
+Utilizamos <h1> para los titutlos, <h2> para los subtitulos, <footer> para poner el pie de pagina con nuestros nombres, <title> para el nombre de la pagina, <article> para separar las secciones, <p> para poner toda la explicacion y <img> para la imagen
+Integrantes: Francisco Elias y Camila Rosenberg 
